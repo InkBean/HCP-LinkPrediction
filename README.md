@@ -1,1 +1,1 @@
-# HCP-LinkPrediction
+# HCP-Conenctivity
